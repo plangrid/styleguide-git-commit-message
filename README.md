@@ -58,10 +58,8 @@ Suggested Emojis
 | :mute: | `:mute:` | when Reducing **Logging** |
 | :sparkles: | `:sparkles:` | when introducing **New** Features |
 | :zap: | `:zap:` | when introducing **Backward-InCompatible** Features, _maybe_ with `@CHANGED` Comment Tag |
-| :snowflake: | `:snowflake:` | changing **Configuration**, Usually together with :penguin: or :ribbon: or :rocket: |
-| :ribbon: | `:ribbon:` | Customer requested application **Customization**, with `@HACK` Comment Tag |
+| :snowflake: | `:snowflake:` | changing **Configuration** |
 | :rocket: | `:rocket:` | Anything related to Deployments/**DevOps** |
-| :handshake: | `:handshake:` | when **Merge files** |
 
 Ask to Be [Creative](https://emoji.codes/)!
 
