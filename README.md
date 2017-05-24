@@ -2,8 +2,8 @@ PlanGrid for Windows Git Commit Message
 ==================
 
 All Git Commit Messages **MUST** meet with this Text Format:
-```
 
+```
 [Jira Ticket ]:emoji1: [:emoji2: :emoji3: ...] Subject
 (Only One NewLine)
 Message Body
