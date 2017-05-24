@@ -57,7 +57,6 @@ Suggested Emojis
 | :speaker: | `:speaker:` | when Adding **Logging** |
 | :mute: | `:mute:` | when Reducing **Logging** |
 | :sparkles: | `:sparkles:` | when introducing **New** Features |
-| :zap: | `:zap:` | when introducing **Backward-InCompatible** Features, _maybe_ with `@CHANGED` Comment Tag |
 | :snowflake: | `:snowflake:` | changing **Configuration** |
 | :rocket: | `:rocket:` | Anything related to Deployments/**DevOps** |
 
