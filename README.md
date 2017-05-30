@@ -47,10 +47,6 @@ Suggested Emojis
 | :microscope: | `:microscope:` | when adding **code coverage** |
 | :green_heart: | `:green_heart:` | when fixing the **CI** build |
 | :lock: | `:lock:` | when dealing with **security** |
-| :arrow_up: | `:arrow_up:` | when upgrading **dependencies** |
-| :arrow_down: | `:arrow_down:` | when downgrading **dependencies** |
-| :fast_forward: | `:fast_forward:` | when **forward-porting features** from an older version/branch |
-| :rewind: | `:rewind:` | when **backporting features** from a newer version/branch |
 | :shirt: | `:shirt:` | when removing **linter**/strict/deprecation warnings |
 | :lipstick: | `:lipstick:` | when improving **UI**/Cosmetic |
 | :wheelchair: | `:wheelchair:` | when improving **accessibility** |
@@ -60,6 +56,10 @@ Suggested Emojis
 | :sparkles: | `:sparkles:` | when introducing **New** Features |
 | :snowflake: | `:snowflake:` | changing **Configuration** |
 | :rocket: | `:rocket:` | Anything related to Deployments/**DevOps** |
+| :arrow_up: | `:arrow_up:` | when upgrading **dependencies** |
+| :arrow_down: | `:arrow_down:` | when downgrading **dependencies** |
+| :fast_forward: | `:fast_forward:` | when **forward-porting features** from an older version/branch |
+| :rewind: | `:rewind:` | when **backporting features** from a newer version/branch |
 
 Ask to Be [Creative](https://emoji.codes/)!
 
