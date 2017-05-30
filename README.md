@@ -37,7 +37,8 @@ Suggested Emojis
 |:---:|:---:|---|
 | :art: | `:art:` | when improving the **format**/structure of the code |
 | :cloud: | `:cloud:` | when making chnages involving synchronization logic with the backend API |
-| :bank: | `:bank:` | **Generic Database** specific (Migrations, Scripts, Extensions, ...) |
+| :bank: | `:bank:` | when making changes to the sqlite database (Migrations, Scripts, Extensions, ...) |
+| :printer: | `:printer:` | when making changes that involve the printer |
 | :pencil: | `:pencil:` | when **performing minor changes/fixing** the code or language |
 | :racehorse: | `:racehorse:` | when improving **performance** |
 | :books: | `:books:` | when writing **docs** |
