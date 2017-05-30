@@ -43,7 +43,7 @@ Suggested Emojis
 | :racehorse: | `:racehorse:` | when improving **performance** |
 | :books: | `:books:` | when writing **docs** |
 | :ambulance: | `:ambulance:` | when fixing a **bug** |
-| :umbrella: | `:umbrella:` | when adding **tests** |
+| :white_check_mark: | `:white_check_mark:` | when adding **tests** |
 | :microscope: | `:microscope:` | when adding **code coverage** |
 | :green_heart: | `:green_heart:` | when fixing the **CI** build |
 | :lock: | `:lock:` | when dealing with **security** |
