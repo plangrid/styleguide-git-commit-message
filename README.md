@@ -55,7 +55,7 @@ Suggested Emojis
 | :speaker: | `:speaker:` | when Adding **Logging** |
 | :mute: | `:mute:` | when Reducing **Logging** |
 | :sparkles: | `:sparkles:` | when introducing **New** Features |
-| :snowflake: | `:snowflake:` | changing **Configuration** |
+| :gear: | `:gear:` | changing **Configuration** |
 | :rocket: | `:rocket:` | Anything related to Deployments/**DevOps** |
 | :arrow_up: | `:arrow_up:` | when upgrading **dependencies** |
 | :arrow_down: | `:arrow_down:` | when downgrading **dependencies** |
