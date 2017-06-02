@@ -40,7 +40,7 @@ Suggested Emojis
 | :bank: | `:bank:` | when making changes to the sqlite database (Migrations, Scripts, Extensions, ...) |
 | :printer: | `:printer:` | when making changes that involve the printer |
 | :mag_right: | `:mag_right:` | when making changes to analytics |
-| :card_box: | `:card_box:` | changes involving the data model layer |
+| :card_index: | `:card_index:` | changes involving the data model layer |
 | :pencil: | `:pencil:` | when **performing minor changes/fixing** the code or language |
 | :racehorse: | `:racehorse:` | when improving **performance** |
 | :books: | `:books:` | when writing **docs** |
