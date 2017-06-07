@@ -42,7 +42,7 @@ Suggested Emojis
 | :mag_right: | `:mag_right:` | when making changes to analytics |
 | :card_index: | `:card_index:` | changes involving the data model layer |
 | :eyes: | `:eyes:` | changes involving searching or filtering |
-| 📰 | 📰 | when changing how sheets are visualized |
+| 🗞 | 🗞 | when changing how sheets are visualized |
 | :pencil: | `:pencil:` | when **performing minor changes/fixing** the code or language |
 | :racehorse: | `:racehorse:` | when improving **performance** |
 | :books: | `:books:` | when writing **docs** |
