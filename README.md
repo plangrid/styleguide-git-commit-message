@@ -51,6 +51,7 @@ Suggested Emojis
 | :white_check_mark: | `:white_check_mark:` | when adding **tests** |
 | :octopus: | `:octopus:` | when adding **code coverage** |
 | :green_heart: | `:green_heart:` | when fixing the **CI** build |
+| :arrow_double_up: | `:arrow_double_up:` | when bumping the app version for the next release |
 | :lock: | `:lock:` | when dealing with **security** |
 | :shirt: | `:shirt:` | when removing **linter**/strict/deprecation warnings |
 | :lipstick: | `:lipstick:` | when improving **UI**/Cosmetic |
